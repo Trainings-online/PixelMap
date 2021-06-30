@@ -615,7 +615,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/global\/raw.githubusercontent.com\/die3ungleichen\/2D-Welt-thueringen\/main\/main.json"
+                 "value":"global\/raw.githubusercontent.com\/die3ungleichen\/2D-Welt-thueringen\/main\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
