@@ -579,7 +579,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"raw.githubusercontent.com\/die3ungleichen\/2D-Welt-thueringen\/main\/main.json"
+                 "value":"https:\/\/trainings-online.github.io\/ro0m_1\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -597,7 +597,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"global\/raw.githubusercontent.com\/die3ungleichen\/2D-Welt-thueringen\/main\/main.json"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -615,7 +615,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"global\/raw.githubusercontent.com\/die3ungleichen\/2D-Welt-thueringen\/main\/main.json"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
